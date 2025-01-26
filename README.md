@@ -1,2 +1,2 @@
 # Weather-Tracker
-WeatherTracker: An app to display live weather updates for cities worldwide.
+WeatherTracker: "An app to display live weather updates for cities worldwide."
